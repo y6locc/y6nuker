@@ -1,0 +1,10 @@
+discord
+sys
+asyncio
+threading
+time
+os
+requests
+subprocess
+version
+colorama
